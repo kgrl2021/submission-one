@@ -1,0 +1,1 @@
+{"optimizer": "Adam", "lr": 0.0035434025073034117, "epochs": 200, "auc_score": 0.954379488011684, "average_precision": 0.9252929239096044, "training_time": 4.855183362960815}

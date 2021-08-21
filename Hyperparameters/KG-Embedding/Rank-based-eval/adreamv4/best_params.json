@@ -1,0 +1,1 @@
+{"model": "TransR", "optimizer_name": "adamw", "embedding_dim": 200, "epochs": 100, "lr": 0.031184743339136924, "train_time": 259.93043065071106}

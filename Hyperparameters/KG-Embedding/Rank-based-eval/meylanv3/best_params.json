@@ -1,0 +1,1 @@
+{"model": "TransE", "optimizer_name": "adam", "embedding_dim": 100, "epochs": 200, "lr": 0.0035804773912378757, "train_time": 135.0857846736908}

@@ -1,0 +1,1 @@
+{"model": "DistMult", "optimizer_name": "adam", "embedding_dim": 100, "epochs": 100, "lr": 0.015020282551494138}

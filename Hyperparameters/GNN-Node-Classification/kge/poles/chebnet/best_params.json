@@ -1,0 +1,1 @@
+{"optimizer": "RMSprop", "lr": 0.00860273827448498, "epochs": 400, "test_acc": 1.0, "test_f1": 1.0, "training_time": 329.9959635734558}
